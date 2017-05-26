@@ -14,7 +14,7 @@ Made way back in 2014, it's written under the [***ZinjaI*** IDE](http://zinjai.s
  - **SFML 2** (now updated to 2.4.2), for _Keybinding_.
  
  ## Install
- Just download the most recent ZIP file available, extract it and run the _.exe_. That's it!  
+ Just [download](https://github.com/ktox/LoLTimer/releases) the most recent ZIP file available, extract it and run the _.exe_. That's it!  
  
  Since it is being compiled using _static_ libraries, the .exe can be a bit big. But, at the same time, _it doesn't need anything_ other than the **wav** folder (which I plan to merge into the executable in the near future) in order to work. :)
  
