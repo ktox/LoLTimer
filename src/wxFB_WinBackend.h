@@ -1,12 +1,12 @@
 ///////////////////////////////////////////////////////////////////////////
-// C++ code generated with wxFormBuilder (version Apr 10 2012)
+// C++ code generated with wxFormBuilder (version Dec 21 2016)
 // http://www.wxformbuilder.org/
 //
 // PLEASE DO "NOT" EDIT THIS FILE!
 ///////////////////////////////////////////////////////////////////////////
 
-#ifndef __WINBACKEND_H__
-#define __WINBACKEND_H__
+#ifndef __WXFB_WINBACKEND_H__
+#define __WXFB_WINBACKEND_H__
 
 #include <wx/artprov.h>
 #include <wx/xrc/xmlres.h>
@@ -71,4 +71,4 @@ class Frame0 : public wxFrame
 	
 };
 
-#endif //__VENTANAS_H__
+#endif //__WXFB_WINBACKEND_H__

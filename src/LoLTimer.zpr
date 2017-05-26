@@ -23,7 +23,7 @@ path=MainWindow.cpp
 cursor=25:29
 open=true
 [source]
-path=WinBackend.cpp
+path=wxFB_WinBackend.cpp
 cursor=225:66
 open=true
 [source]
@@ -38,7 +38,7 @@ path=MainWindow.h
 cursor=12:45
 open=true
 [header]
-path=WinBackend.h
+path=wxFB_WinBackend.h
 cursor=19:22
 open=true
 [header]
@@ -49,7 +49,7 @@ open=true
 path=manifest.xml
 cursor=-1:0
 [other]
-path=wxFB_Window.fbp
+path=wxFB_WinBackend.fbp
 cursor=-1:0
 [other]
 path=icon.xpm

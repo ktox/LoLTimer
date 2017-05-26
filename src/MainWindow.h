@@ -1,7 +1,7 @@
 #ifndef MainWindow_H
 #define MainWindow_H
 #include <wx/icon.h>
-#include "WinBackend.h"
+#include "wxFB_WinBackend.h"
 #include "Timer.h"
 #include "icon.xpm"
 #include <SFML/Window/Keyboard.hpp>
